@@ -1,3 +1,4 @@
 ebooklib
 beautifulsoup4
 translators
+requests
